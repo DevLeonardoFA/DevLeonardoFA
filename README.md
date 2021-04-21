@@ -3,10 +3,11 @@
 Sou um dev que busca fazer coisas legais e divertidas. Neste portifolio deve ter um pouco de tudo.
 
 Projetos que estou fazendo:
-
-  1 - LeoLeo (projeto da imersão alura onde recriamos o front da Netflix);
+  
+  1 - Aprendendo ReactNative
   
   2 - RPG (Projeto da minha cabeça de criar um RPG de mesa)
+ 
 <!--
 **DevLeonardoFA/DevLeonardoFA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
