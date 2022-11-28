@@ -1,6 +1,17 @@
-### 👋 Olá! Bom dia, Boa tarde ou Boa noite
+###
 
-Sou um dev que busca fazer coisas legais e divertidas. Neste portifolio deve ter um pouco de tudo.
+<h1>Hello There! I'm Leo</h1>
 
-Projetos que estou fazendo:
+```javascript
 
+const Leo = {
+    askMeAbout: ["clean code", "web dev", "one piece"],
+    technologies: {
+        code: ["Javascript", "React", "Vue.js", "PHP", "Typescript", "sass" ],
+        databases: ["mongo", "MySql", "sqlite"],
+    },
+    currentFocus: "No Focus point at this time",
+    funFact: "Using crtl+s more than once always makes sure it will work"
+};
+
+```
