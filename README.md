@@ -5,13 +5,12 @@
 ```javascript
 
 const Leo = {
-    askMeAbout: ["clean code", "web dev", "one piece"],
+    askMeAbout: ["clean code", "web dev", "one piece", "AI"],
     technologies: {
-        code: ["Javascript", "React", "Vue.js", "PHP", "Typescript", "sass" ],
-        databases: ["mongo", "MySql", "sqlite"],
+        code: ["Javascript", "React", "Vue.js/Nuxt.js", "PHP", "Typescript", "Sass/Scss" ],
     },
-    currentFocus: "No Focus point at this time",
-    funFact: "Using crtl+s more than once always makes sure it will work"
+    currentFocus: "have fun doing what I love and creating dynamic and cool projects",
+    funFact: "throwing the computer against the wall, oddly enough, doesn't help solve bugs"
 };
 
 ```
